@@ -259,7 +259,7 @@ top: 80px;
   text-align: start;
   margin-right: 0;
   margin-top: 80px;
-  margin-right: 20px;
+  
 }
 
 .table_heading_theme_dark{
@@ -335,7 +335,7 @@ top: 80px;
  
 }
 .footer_columns_content_social{
- width: 120px; 
+ width: 120px;
  display: flex;
  flex-flow: column wrap;
 
